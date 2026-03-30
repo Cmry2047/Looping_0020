@@ -12,4 +12,7 @@ int main(){
         cout<<"Teknologi Informasi UMY"<<endl;
     }
     cout<<endl;
+
+    //untuk mendapatkan urutan angka acak yg berbeda
+    srand(time(0));
 }
